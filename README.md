@@ -1,2 +1,1 @@
-# submanager-web
- Sub Manager Landing Website
+# Sub Manager Static Website
